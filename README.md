@@ -41,3 +41,7 @@ create or use cheats, mods and/or hacks as well as any other third party softwar
 ```
 
 So by TOS and general ethics about cheating == bad this project's full intention is researching how the game works, finding bugs, and hopefully preventing tools like the one that this project is based on from working.
+
+### Other Notes
+
+C# isn't my most proficient language please be gentle.

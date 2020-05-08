@@ -1,0 +1,43 @@
+﻿0  - id
+1  - nickname
+2  - ?? Integer, Changes on every user, unsure of what it means
+5  - ?? Byte Array 
+6  - ?? Byte Array
+7  - ?? Byte Array
+8  - guild? 
+9  - ?? Byte Array
+10 - ?? Empty
+11 - ?? Empty
+12 - ?? SingleFloat Array
+13 - ?? SingleFloat Array
+14 - ?? Integer, all between 50,765,160 - 53,347,796
+15 - ?? Float changing, 56.67157 - 271.1728 (best guess is direction) 
+16 - Speed
+18 - ?? 1900-2200 Integer 
+19 - ?? 1400-2000 Integer
+20 - ?? 1200-2000 Constant Integer
+21 - ?? Long Integer
+22 - ?? Integer
+23 - ?? Integer 346
+24 - ?? Double 4.581053
+25 - ?? 56787352
+26 - ?? 676
+27 - ?? 676
+28 - ?? 6.76
+29 - ?? 56787504
+30 - 
+31
+32
+33
+35
+36
+37
+38
+39
+40
+41
+43
+44
+45
+48
+252

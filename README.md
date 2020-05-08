@@ -4,7 +4,7 @@ Albion Vision Project
 The Albion Vision Project is a WIP project to document what packets are sent between Albion and the Client.
 
 # Installation
-Download, Clone, Open in Visual Studio
+Download/Clone, Open in Visual Studio
 
 **Put the following .dll's in the libs folder** (You will need to get them on your own, they are not too hard to get)
 * PcapDotNet.Base.dll

@@ -28,7 +28,7 @@ namespace Vision
         public Form1()
         {
             InitializeComponent();
-            Settings.loadSettings(this);
+            //Settings.loadSettings(this);
     
         }
 
@@ -48,14 +48,6 @@ namespace Vision
                 Console.WriteLine(ea.ToString());
                 //while (true) ;
             }
-        }
-        public string Between(string STR, string FirstString, string LastString)
-        {
-            string FinalString;
-            int Pos1 = STR.IndexOf(FirstString) + FirstString.Length;
-            int Pos2 = STR.IndexOf(LastString);
-            FinalString = STR.Substring(Pos1, Pos2 - Pos1);
-            return FinalString;
         }
 
         private void createListener()
@@ -118,20 +110,10 @@ namespace Vision
         {
             
         }
-        private void tierCheckChange(object sender, EventArgs e)
-        {
-            updateSettings();
-        }
-        private void harvestableCheckChange(object sender, EventArgs e)
-        {
-            updateSettings();
 
-        }
-
-        private void cbDisplayPeople_CheckedChanged(object sender, EventArgs e)
-        {
-        }
         private MouseClickMessageFilter Filter;
+
+
 
         [DllImport("user32.dll")]
         static extern int SetWindowLong(IntPtr hWnd, int nIndex, uint dwNewLong);
@@ -141,7 +123,8 @@ namespace Vision
         [DllImport("user32.dll")]
         [return: MarshalAs(UnmanagedType.Bool)]
         public static extern bool SetWindowPos(IntPtr hWnd, IntPtr hWndInsertAfter, int X, int Y, int cx, int cy, uint uFlags);
-        private static readonly IntPtr HWND_TOPMOST = new IntPtr(-1);
+
+        //private static readonly IntPtr HWND_TOPMOST = new IntPtr(-1);
         //private const UInt32 SWP_NOSIZE = 0x0001;
         //private const UInt32 SWP_NOMOVE = 0x0002;
         //private const UInt32 TOPMOST_FLAGS = SWP_NOMOVE | SWP_NOSIZE;
@@ -152,5 +135,19 @@ namespace Vision
             Environment.Exit(Environment.ExitCode);
         }
 
+        private void button1_Click(object sender, EventArgs e)
+        {
+
+        }
+
+        private void label1_Click(object sender, EventArgs e)
+        {
+
+        }
+
+        private void label6_Click(object sender, EventArgs e)
+        {
+
+        }
     }
 }

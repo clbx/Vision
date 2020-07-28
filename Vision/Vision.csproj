@@ -81,6 +81,7 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="AOEnums\Response Codes.cs" />
     <Compile Include="AOEnums\EventCodes.cs" />
     <Compile Include="Form1.cs">
       <SubType>Form</SubType>

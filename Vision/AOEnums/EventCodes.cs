@@ -213,6 +213,11 @@ namespace Vision
         evMountCancel = 192,
         evNewTravelpoint = 193,
         evNewIslandAccessPoint = 194,
+        /** Is sent when market is opened 
+         * 
+         * 
+         * 
+         */
         evNewExit = 195,
         evUpdateHome = 196,
         evUpdateChatSettings = 197,
@@ -357,6 +362,11 @@ namespace Vision
         evPartyFinderApplicantsUpdate = 336,
         evPartyFinderEquipmentSnapshot = 337,
         evPartyFinderJoinRequestDeclined = 338,
+        /**
+         * Is sent 4 times when selling window is open. My guess to get Sell, Buy, Sell Order, and Buy Order Prices
+         * 
+         * 
+         */
         evNewUnlockedPersonalSeasonRewards = 339,
         evPersonalSeasonPointsGained = 340,
         evEasyAntiCheatMessageToClient = 341,

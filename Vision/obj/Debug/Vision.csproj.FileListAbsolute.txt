@@ -15,3 +15,20 @@ C:\Users\Clay\Documents\GitHub\AO-Radar\AlbionRadaro\bin\Debug\Photon3Unity3D.dl
 C:\Users\Clay\Documents\GitHub\AO-Radar\AlbionRadaro\obj\Debug\Vision.csproj.CopyComplete
 C:\Users\Clay\Documents\GitHub\AO-Radar\AlbionRadaro\obj\Debug\Albion Vison Project.dll
 C:\Users\Clay\Documents\GitHub\AO-Radar\AlbionRadaro\obj\Debug\Albion Vison Project.pdb
+C:\Users\Clay\Documents\GitHub\Vision\Vision\bin\Debug\Albion Vison Project.exe.config
+C:\Users\Clay\Documents\GitHub\Vision\Vision\bin\Debug\Albion Vison Project.exe
+C:\Users\Clay\Documents\GitHub\Vision\Vision\bin\Debug\Albion Vison Project.pdb
+C:\Users\Clay\Documents\GitHub\Vision\Vision\bin\Debug\PcapDotNet.Base.dll
+C:\Users\Clay\Documents\GitHub\Vision\Vision\bin\Debug\PcapDotNet.Core.dll
+C:\Users\Clay\Documents\GitHub\Vision\Vision\bin\Debug\PcapDotNet.Core.Extensions.dll
+C:\Users\Clay\Documents\GitHub\Vision\Vision\bin\Debug\PcapDotNet.Packets.dll
+C:\Users\Clay\Documents\GitHub\Vision\Vision\bin\Debug\Photon3DotNet.dll
+C:\Users\Clay\Documents\GitHub\Vision\Vision\bin\Debug\Photon3Unity3D.dll
+C:\Users\Clay\Documents\GitHub\Vision\Vision\obj\Debug\Vision.csprojAssemblyReference.cache
+C:\Users\Clay\Documents\GitHub\Vision\Vision\obj\Debug\Vision.Form1.resources
+C:\Users\Clay\Documents\GitHub\Vision\Vision\obj\Debug\Vision.PerPixelAlphaForm.resources
+C:\Users\Clay\Documents\GitHub\Vision\Vision\obj\Debug\Vision.Properties.Resources.resources
+C:\Users\Clay\Documents\GitHub\Vision\Vision\obj\Debug\Vision.csproj.GenerateResource.cache
+C:\Users\Clay\Documents\GitHub\Vision\Vision\obj\Debug\Vision.csproj.CopyComplete
+C:\Users\Clay\Documents\GitHub\Vision\Vision\obj\Debug\Albion Vison Project.exe
+C:\Users\Clay\Documents\GitHub\Vision\Vision\obj\Debug\Albion Vison Project.pdb

@@ -18,7 +18,7 @@ I've found that only Pcap version 1.0.4.1 works. So if you're having issues use 
 
 # Legal
 
-This is based off [AO-Radar](https://github.com/rafalfigura/AO-Radar) (which i have to mention due to GPL license). **The radar completely removed and is 100% unaccessable in this program**.
+This is based off [AO-Radar](https://github.com/rafalfigura/AO-Radar) (which i have to mention due to GPL license). **The radar completely removed and is 100% inaccessible in this program**.
 
 
 ### Is this allowed?

@@ -18,7 +18,7 @@ I've found that only Pcap version 1.0.4.1 works. So if you're having issues use 
 
 # Legal
 
-This is based off [AO-Radar](https://github.com/rafalfigura/AO-Radar) (which i have to mention due to GPL license). **The radar completely removed and is 100% inaccessible in this program**.
+This is based off [AO-Radar](https://github.com/rafalfigura/AO-Radar) (which i have to mention due to GPL license). **The radar and any player, resource, or other detecting functionality is completely removed and is 100% inaccessible in this program**. The radar served as a nice base in a language I know
 
 
 ### Is this allowed?
@@ -26,7 +26,7 @@ This is based off [AO-Radar](https://github.com/rafalfigura/AO-Radar) (which i h
 Offically SBI allows the reading of packet data on the following conditions:
 
 ```
-Our position is quite simple. As long as you just look and analyze we are ok with it. The moment you modify or manipulate something or somehow interfere with our services we will react (e.g. perma-ban, take legal action, whatever
+Our position is quite simple. As long as you just look and analyze we are ok with it. The moment you modify or manipulate something or somehow interfere with our services we will react (e.g. perma-ban, take legal action, whatever)
 ```
 - Mad Dave, Technical Lead at SBI 
 

@@ -1,7 +1,7 @@
 # Vision
 Albion Vision Project
 
-The Albion Vision Project is a WIP project to document what packets are sent between Albion and the Client.
+The Albion Vision Project is a WIP project to document what packets are sent between Albion and the Client. Also (will) include useful utilities.
 
 # Installation
 Download/Clone, Open in Visual Studio
@@ -18,7 +18,7 @@ I've found that only Pcap version 1.0.4.1 works. So if you're having issues use 
 
 # Legal
 
-This is based off [AO-Radar](https://github.com/rafalfigura/AO-Radar) (which i have to mention due to GPL license). **The radar completley removed and is 100% unaccessable in this program**. 
+This is based off [AO-Radar](https://github.com/rafalfigura/AO-Radar) (which i have to mention due to GPL license). **The radar completley removed and is 100% unaccessable in this program**.
 
 
 ### Is this allowed?
@@ -30,17 +30,6 @@ Our position is quite simple. As long as you just look and analyze we are ok wit
 ```
 - Mad Dave, Technical Lead at SBI 
 
-Many people take this as an OK to create cheating tools.
-
-The TOS also mentions the following:
-
-```
-In particular users are forbidden to...
-
-create or use cheats, mods and/or hacks as well as any other third party software that modifies the gaming experience of the Game unless permitted by the rules of the Game,
-```
-
-So by TOS and general ethics about cheating == bad this project's full intention is researching how the game works, finding bugs, and hopefully preventing tools like the one that this project is based on from working.
 
 ### Other Notes
 
